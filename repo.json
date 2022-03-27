@@ -1,0 +1,29 @@
+[
+     {
+        "name": "Nightwindistesting",
+        "author": "Ash",
+        "version": "15",  
+        "description": "best shortcut ever",
+        "longDescription": "best shortcut ever ever",
+        "download": "Link to download the shortcut, usually starts with https://www.icloud.com/shortcuts/...",
+        "compatibility": [
+            "Minimum compatible version of iOS, for example 15.0",
+            "Maximum compatible version of iOS, for example 15.4"
+        ],
+        "icons" : {
+            "shortcut": "The URL to the icon of the shortcut",
+            "author": "The URL to the profile picture of the author",
+            "banner": "Link to the shortcut banner"
+        },
+        "screenshots" : [
+            "Link to a screenshot showcasing the shortcut 1",
+            "Link to a screenshot showcasing the shortcut 2",
+            "Link to a screenshot showcasing the shortcut 3",
+            "Link to a screenshot showcasing the shortcut 4"
+        ],
+        "olderVersions": {
+            "Older version number 1": "Link to download older version 1",
+            "Older version number 2": "Link to download older version 2"
+        }
+    }
+]
