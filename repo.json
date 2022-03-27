@@ -7,8 +7,8 @@
         "longDescription": "best shortcut ever ever",
         "download": "Link to download the shortcut, usually starts with https://www.icloud.com/shortcuts/...",
         "compatibility": [
-            "Minimum compatible version of iOS, for example 14",
-            "Maximum compatible version of iOS, for example 14.8"
+            "14",
+            "14.8"
         ],
         "icons" : {
             "shortcut": "https://cdn.discordapp.com/avatars/266218517420965888/bbf410367099e22fceded90e0f4d501f.png?size=2048",
